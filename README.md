@@ -5,7 +5,7 @@ Apple Tree is an App for MacOS & Windows (hopefully Linux) that creates a visual
 
 
 ### How it works
-Apple Tree lets you select apps from the application folder or by dragging and dropping the app into the drop box. It then lets you creates a .txt file with the tree structure, its that simple!
+Apple Tree lets you select apps from the application folder or by dragging and dropping an app into the drop box. It then lets you creates a .txt file with the tree structure, its that simple!
 
 ### Example
 ```
