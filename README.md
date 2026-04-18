@@ -1,5 +1,5 @@
 # AppleTree
-Apple Tree is an App for MacOS (and soon for Windows and hopefully Linux) that creates a visual directory (tree) structure for any application of your choosing, allowing you to evaluate applications file structures in depth to compare with other trees.
+Apple Tree is an App for MacOS & Windows (hopefully Linux) that creates a visual directory (tree) structure for any application of your choosing, allowing you to evaluate applications file structures in depth to compare with other trees.
 
 <img width="411" height="411" alt="Screenshot 2026-04-17 at 10 24 56 PM" src="https://github.com/user-attachments/assets/f042d4e0-408a-47b1-853b-8486f2ba13c3" />
 
